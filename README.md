@@ -1,2 +1,2 @@
 # hello-world
-just another respository
+The quick brown fox jumped over the lazy dog
