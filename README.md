@@ -1,3 +1,3 @@
 <html>
-  <div align="center">Thunderbirds Are Go</div>
+  <div style="color:red" align="center">Thunderbirds Are Go</div>
   </html>
